@@ -3,7 +3,7 @@
 /* Galeria */
 /* Nagłówek sekcji */
 .section-title {
-    font-size: 2.5rem; /* Duży nagłówek */
+    font-size: 40px; /* Duży nagłówek */
     font-family: 'Inter';
     text-align: center;
     color: #333333; /* Pomarańczowy dla wyróżnienia */
@@ -15,7 +15,7 @@
   /* Opis sekcji */
   .section-description {
     text-align: center;
-    font-size: 1.3rem;
+    font-size: 20px;
     font-family: 'Inter';
     color: #000000; /* Subtelny szary */
     margin-bottom: 20px;
@@ -25,7 +25,7 @@
   }
   
   .section-title-done{
-    font-size: 2.5rem; /* Duży nagłówek */
+    font-size: 40px; /* Duży nagłówek */
     text-align: center;
     color: #333333; /* Pomarańczowy dla wyróżnienia */
     margin-bottom: 10px;

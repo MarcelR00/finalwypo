@@ -14,14 +14,14 @@ textarea {
 }
 
 #contact .section-title {
-  font-size: 2.5rem;
+  font-size: 40px;
   font-family: 'Inter';
   color: #333333;
   margin-bottom: 20px;
 }
 
 #contact .section-description {
-  font-size: 1.3rem;
+  font-size: 20px;
   font-family: 'Inter';
   color: #000000;
   line-height: 1.6;
@@ -48,7 +48,7 @@ textarea {
 }
 
 .contact-form label {
-  font-size: 1.3rem;
+  font-size: 20px;
   font-family: 'Inter';
   color: black;
   margin-bottom: 8px;
@@ -72,7 +72,7 @@ button[type="submit"] {
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
-  font-size: 1.3rem;
+  font-size: 20px;
   font-family: 'Inter';
   cursor: pointer;
   transition: background-color 0.3s ease;
@@ -116,7 +116,7 @@ button[type="submit"]:hover {
 }
 
 .contact-item p {
-  font-size: 1.3rem;
+  font-size: 20px;
   font-family: 'Inter';
   color: #000000; /* Subtelny szary */
 }
@@ -147,7 +147,7 @@ button[type="submit"]:hover {
 
 
 .section-title {
-  font-size: 2.5rem; /* Duży nagłówek */
+  font-size: 40px; /* Duży nagłówek */
   text-align: center;
   color: #333333; /* Pomarańczowy dla wyróżnienia */
   margin-bottom: 10px;
@@ -158,7 +158,7 @@ button[type="submit"]:hover {
 /* Opis sekcji */
 .section-description {
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 20px;
   color: #000000; /* Subtelny szary */
   margin-bottom: 20px;
   line-height: 1.5;
@@ -168,7 +168,7 @@ button[type="submit"]:hover {
 
 .section-description-done {
   text-align: center;
-  font-size: 1.5rem;
+  font-size: 20px;
   color: #000000; /* Subtelny szary */
   margin-bottom: 20px;
   line-height: 1.5;
@@ -177,7 +177,7 @@ button[type="submit"]:hover {
 }
 
 .section-title-done{
-  font-size: 2.5rem; /* Duży nagłówek */
+  font-size: 40px; /* Duży nagłówek */
   text-align: center;
   color: #333333; /* Pomarańczowy dla wyróżnienia */
   margin-bottom: 10px;

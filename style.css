@@ -88,7 +88,7 @@ nav ul li a#contact {
   color: white; /* Biały tekst */
   padding: 10px 20px; /* Wewnętrzne marginesy */
   border-radius: 5px; /* Zaokrąglone rogi */
-  font-size: 1.3rem;
+  font-size: 20px;
   font-weight: bold;
   text-decoration: none; /* Brak podkreślenia */
   transition: background-color 0.3s ease; /* Animacja przejścia */
@@ -209,7 +209,7 @@ footer {
 .menu li a {
   text-decoration: none;
   color: white;
-  font-size: 1.3rem;
+  font-size: 20px;
   font-weight: bold;
   transition: color 0.3s ease;
 }

@@ -12,7 +12,7 @@
 }
 
 #hero p {
-  font-size: 1.3rem;
+  font-size: 16px;
   font-family: 'Inter';
 }
 
@@ -30,7 +30,7 @@
   margin-top: 20px;
   padding: 15px 25px;
   color: white;
-  font-size: 1.3rem;
+  font-size: 16px;
   font-weight: bold;
   cursor: pointer;
   border-radius: 5px;
@@ -136,7 +136,7 @@ button[type="submit"] {
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
-  font-size: 1.3rem;
+  font-size: 16px;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
@@ -233,7 +233,7 @@ color: #555;
 }
 
 #why-us .section-title {
-  font-size: 2.5rem;
+  font-size: 40px;
   font-family: 'Inter';
   margin-bottom: 30px;
   color: #2a1313;
@@ -243,7 +243,7 @@ color: #555;
 
 #why-us ul {
   list-style: none;
-  font-size: 1.3em;
+  font-size: 16px;
   line-height: 1.5;
   font-family: 'Inter';
   color: white;
@@ -298,7 +298,7 @@ color: #555;
 }
 
 .section-title {
-  font-size: 2.5rem;
+  font-size: 40px;
   font-family: 'Inter';
   margin-bottom: 30px;
   color: #2a1313;
@@ -307,7 +307,7 @@ color: #555;
 
 .section-description {
   font-family: 'Inter';
-  font-size: 1.3em;
+  font-size: 16px;
   line-height: 1.5;
   color: #000000;
   margin-bottom: 20px;
@@ -330,7 +330,7 @@ color: #555;
 }
 
 #testimonials .section-title {
-  font-size: 2.5rem;
+  font-size: 40px;
   font-family: 'Inter';
   color: #2a1313;
   margin-bottom: 30px;
@@ -340,7 +340,7 @@ color: #555;
 }
 
 #testimonials blockquote {
-  font-size: 1.3em;
+  font-size: 16px;
   line-height: 1.5;
   font-family: 'Inter';
   margin-left: 10px;
