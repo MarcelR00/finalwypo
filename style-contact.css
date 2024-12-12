@@ -29,6 +29,16 @@ textarea {
 }
 
 /* Formularz */
+.contact-form {
+  background-color: #f9f9f9; /* Jasne tło dla wyróżnienia */
+  padding: 20px; /* Większe odstępy wewnętrzne */
+  border: 1px solid #ddd; /* Subtelne obramowanie */
+  border-radius: 10px; /* Zaokrąglone rogi */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Efekt cienia dla głębi */
+  max-width: 700px; /* Dostosowanie szerokości */
+  margin: 20px auto; /* Wycentrowanie formularza na stronie */
+}
+
 .contact-form form {
   max-width: 600px; /* Wypełnij szerokość rodzica */
   padding: 10px; /* Dodaj wewnętrzne odstępy */
